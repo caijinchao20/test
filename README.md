@@ -1,2 +1,2 @@
 # test
-jist a description for testing
+just a description for testing
